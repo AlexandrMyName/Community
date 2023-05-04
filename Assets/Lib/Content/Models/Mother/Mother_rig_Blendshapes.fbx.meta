@@ -1,0 +1,251 @@
+fileFormatVersion: 2
+guid: 3882ae5b6d96e1647a57de96bc09e316
+ModelImporter:
+  serializedVersion: 21300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_BeltButton_MAT
+    second: {fileID: 2100000, guid: 00e14969c7f4714428b1a50e0af7907e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Brows_MAT
+    second: {fileID: 2100000, guid: 1b13b9bda89b5ae4487ad699edeb77e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Crystal_MAT
+    second: {fileID: 2100000, guid: 7a9eec99725c00047a22bd8b051e0ff9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_EyeCrysta_MAT
+    second: {fileID: 2100000, guid: ba99d141d47adc646b321ac928d18c8e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Hair_MAT
+    second: {fileID: 2100000, guid: 3871e30cef9e458468c0be1bfdf4187e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Head_MAT
+    second: {fileID: 2100000, guid: 33c4f2a0c9f66604a9d1dacacff5f45d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Jean_MAT
+    second: {fileID: 2100000, guid: 0faf84d633486f34ba50662292aec6c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_NecklaceLine_MAT
+    second: {fileID: 2100000, guid: 8146cb256e7451b419921d1f3d5b94a7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Shirt_MAT
+    second: {fileID: 2100000, guid: 7d85580fb15c9b243b19bdbbde62f53f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_SkirtButton_MAT
+    second: {fileID: 2100000, guid: 1b0ca457036d4b54ba70b8dd440b3897, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_Teeth_Tongue_MAT
+    second: {fileID: 2100000, guid: 2990d6a2b970c2e4893a9355649eaa20, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_eyeHighLight_MAT
+    second: {fileID: 2100000, guid: 7dfa412b9eac9e8499dc5f8817e79daf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_eyeball_MAT
+    second: {fileID: 2100000, guid: a852da38d9b1c13499b672904f29340b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_eyelash_MAT
+    second: {fileID: 2100000, guid: ffe02e5d553783443b6d092f95a2a877, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_headrope_MAT
+    second: {fileID: 2100000, guid: 4f4c9a174c78a0b42b3364bb77958b01, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mother_hoeHeel_MAT
+    second: {fileID: 2100000, guid: 6592e3d7ef2ae484daa0ba06daad5578, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: EyeBall_Diffuse
+    second: {fileID: 2800000, guid: db00c62392db6a249b037a3e75cffde9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Face_Bump
+    second: {fileID: 2800000, guid: 8dca61b1ef70ba54ab8abd56f8ff284f, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Face_Diffuse
+    second: {fileID: 2800000, guid: 7c7d98a68650df549b19db2719b59b24, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Girl_hair_color
+    second: {fileID: 2800000, guid: fa492ab43e95a19419995313d539cdfe, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Girl_hair_spe
+    second: {fileID: 2800000, guid: fbd6a06fd553acf4585c2cdbc836cd9c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jean_BUMP
+    second: {fileID: 2800000, guid: f97d2f4dbcfe8ae41807a1e123479c69, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Jean_Diffuse
+    second: {fileID: 2800000, guid: e0887017afc278740b18235dba080328, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Mouth_Diffuse
+    second: {fileID: 2800000, guid: 1ef7d6edc97ea0d4882da810aa355d56, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: NecklaceGem_Diffuse
+    second: {fileID: 2800000, guid: 5a578a868259c3743ab844737b284597, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Shoe_Diffuse
+    second: {fileID: 2800000, guid: 435e2693db2413948b71bf37b5694b90, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Shirt_BUMP
+    second: {fileID: 2800000, guid: bb5f440be8442194e88516cf10dbc342, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: T_Shirt_Diffuse
+    second: {fileID: 2800000, guid: 4e1adf032b4534243baf050646ccc169, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: headrope_color
+    second: {fileID: 2800000, guid: b6d23b488aa772f499a5a997959c77ea, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 3
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

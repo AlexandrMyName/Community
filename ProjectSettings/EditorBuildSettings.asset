@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lib/Scenes/LightPreFinal01.unity
+    guid: 814f378885ee1874b90e8f96073cbcbf
+  - enabled: 1
+    path: Assets/Lib/Scenes/Interview ver2.unity
+    guid: 4f95ddfc23ac1d4419f865346a7dcefd
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 39cb100e84405974db3b17eb32035302,
+      type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000,
+      guid: 3e293afa253c3e146bb2a9c34c83ea39, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000,
+      guid: 92d344e0c806ea6499bef6497caefa98, type: 2}

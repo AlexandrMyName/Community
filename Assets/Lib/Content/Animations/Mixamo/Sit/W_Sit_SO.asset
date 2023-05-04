@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a97674bc54cc9544d8e2e0aabbf1a058, type: 3}
+  m_Name: W_Sit_SO
+  m_EditorClassIdentifier: 
+  _sumPriority: 25
+  controller: {fileID: 9100000, guid: 0162434adce99fa4292848a174e7cc66, type: 2}
+  IdleAnimations:
+  - clip: {fileID: 7400000, guid: 084b07f53a3003e49a66ac63ed0e596d, type: 2}
+    dontChangeItIsSystemKey: W_Sit_1_animation
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 15
+  - clip: {fileID: 7400000, guid: 902dee42fdaa64247a433508e113553f, type: 2}
+    dontChangeItIsSystemKey: W_Sit_2_animation
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 5
+  - clip: {fileID: 7400000, guid: 9bb20a1298c6ecb42bcbd10b0128e6c1, type: 2}
+    dontChangeItIsSystemKey: Sitting
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 5
+  workingData:
+    oldAnimations:
+    - clip: {fileID: 7400000, guid: 084b07f53a3003e49a66ac63ed0e596d, type: 2}
+      dontChangeItIsSystemKey: W_Sit_1_animation
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 15
+    - clip: {fileID: 7400000, guid: 902dee42fdaa64247a433508e113553f, type: 2}
+      dontChangeItIsSystemKey: W_Sit_2_animation
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 5
+    - clip: {fileID: 7400000, guid: 9bb20a1298c6ecb42bcbd10b0128e6c1, type: 2}
+      dontChangeItIsSystemKey: Sitting
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 5

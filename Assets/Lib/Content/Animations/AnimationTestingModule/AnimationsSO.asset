@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a97674bc54cc9544d8e2e0aabbf1a058, type: 3}
+  m_Name: AnimationsSO
+  m_EditorClassIdentifier: 
+  controller: {fileID: 9100000, guid: 1cdece2e5b52d7544a05965573618e1f, type: 2}
+  IdleAnimations:
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 1
+    nameKey: Breathing Idle
+    clip: {fileID: 7400000, guid: f5cf362facfcdb64ea2f184b49d2514a, type: 2}
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 1
+    nameKey: Idle
+    clip: {fileID: -203655887218126122, guid: 00b36824152b4254cabb2971ecf862a8, type: 3}
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 1
+    nameKey: Standing Idle
+    clip: {fileID: 7400000, guid: 068b485726d8d124fb27a9822abe2d74, type: 2}
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 0
+    nameKey: Briefcase Idle
+    clip: {fileID: -203655887218126122, guid: b0ffef29ef8245d4783ab7c50f773541, type: 3}
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 1
+    nameKey: HumanoidDefault
+    clip: {fileID: 7400000, guid: c91389c39d842cc4190ea8be0836798a, type: 2}
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 1
+    nameKey: 
+    clip: {fileID: 0}
+  - KeyInControllerUpdate: 1
+    KeyByClipUpdate: 1
+    nameKey: 
+    clip: {fileID: 0}

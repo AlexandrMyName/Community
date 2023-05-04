@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:unity/AristosApp/Assets/Lib/Scripts/ECS/Components/CallbackEvents.cs.meta
+guid: af02c6171cf2fc3489c2a3d9eee6d47c
+========
+guid: 906794c6efa5e3b4f83ccb518a914327
+>>>>>>>> r01010010:unity/AristosApp/Assets/Lib/Scripts/Monobehaviours/CharacterAudioPlayer.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a97674bc54cc9544d8e2e0aabbf1a058, type: 3}
+  m_Name: Standing SO
+  m_EditorClassIdentifier: 
+  _sumPriority: 30
+  controller: {fileID: 9100000, guid: 1cdece2e5b52d7544a05965573618e1f, type: 2}
+  IdleAnimations:
+  - clip: {fileID: 7400000, guid: f5cf362facfcdb64ea2f184b49d2514a, type: 2}
+    dontChangeItIsSystemKey: Breathing Idle
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 10
+  - clip: {fileID: 7400000, guid: a26569ecd771f5243bb7ad8435046786, type: 2}
+    dontChangeItIsSystemKey: Idle
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 5
+  - clip: {fileID: 7400000, guid: 3094f42ab30fbff4e9c389fba9450976, type: 2}
+    dontChangeItIsSystemKey: Neutral Idle
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 5
+  - clip: {fileID: 7400000, guid: 9989faf2e712ee5449ced96fe9a3a72f, type: 2}
+    dontChangeItIsSystemKey: Stand Idle
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 5
+  - clip: {fileID: 7400000, guid: 068b485726d8d124fb27a9822abe2d74, type: 2}
+    dontChangeItIsSystemKey: Standing Idle
+    iterationCount: 0
+    maximumIterations: 3
+    minimumIterations: 1
+    _count: 0
+    _priority: 5
+  workingData:
+    oldAnimations:
+    - clip: {fileID: 7400000, guid: f5cf362facfcdb64ea2f184b49d2514a, type: 2}
+      dontChangeItIsSystemKey: Breathing Idle
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 10
+    - clip: {fileID: 7400000, guid: a26569ecd771f5243bb7ad8435046786, type: 2}
+      dontChangeItIsSystemKey: Idle
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 5
+    - clip: {fileID: 7400000, guid: 3094f42ab30fbff4e9c389fba9450976, type: 2}
+      dontChangeItIsSystemKey: Neutral Idle
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 5
+    - clip: {fileID: 7400000, guid: 9989faf2e712ee5449ced96fe9a3a72f, type: 2}
+      dontChangeItIsSystemKey: Stand Idle
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 5
+    - clip: {fileID: 7400000, guid: 068b485726d8d124fb27a9822abe2d74, type: 2}
+      dontChangeItIsSystemKey: Standing Idle
+      iterationCount: 0
+      maximumIterations: 3
+      minimumIterations: 1
+      _count: 0
+      _priority: 5
